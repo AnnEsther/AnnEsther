@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on building an Audio Engine on XAudio2. I am also working for PlayChemy Studios as an game developer intern.<br><br>I'm currently looking to start a full time position as a software engineer.
+I'm currently working on building a multit-threaded Audio Engine on XAudio2. I am also working for PlayChemy Studios as an game developer intern.<br><br>I'm currently looking to start a full time position as a software engineer.
 
 
 ## 🌐 Socials:
